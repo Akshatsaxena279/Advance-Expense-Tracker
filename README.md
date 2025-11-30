@@ -16,9 +16,6 @@ A simple yet effective desktop application for tracking expenses, managing budge
 *   **Expense Visualization:** View a pie chart representing expense distribution by category.
 *   **Theme Toggle:** Switch between different UI themes.
 
-## Screenshots
-
-*(To be added: Include screenshots of the application's main window, add/edit expense dialog, budget window, and the category distribution chart.)*
 
 ## Installation
 
